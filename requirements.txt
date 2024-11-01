@@ -2,5 +2,5 @@ numpy<2
 matplotlib
 pybind11>=2.12
 torch==2.5.1
-torchvision
+torchvision=0.20.1
 captum
