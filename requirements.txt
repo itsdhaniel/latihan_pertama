@@ -4,3 +4,4 @@ pybind11>=2.12
 torch
 torchvision
 captum
+timm
