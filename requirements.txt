@@ -1,7 +1,4 @@
-numpy<2
+streamlit
+PIL
+numpy
 matplotlib
-pybind11>=2.12
-torch
-torchvision
-captum
-timm
